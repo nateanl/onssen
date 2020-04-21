@@ -98,7 +98,7 @@ class tester:
             sdrs.update(sdr)
             print("SDR: %.2f"%(sdrs.avg), end='\r')
 
-
+        print("\n")
 
 
 def main():
